@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: YOOOOO THIS IS THE HOMEPAGE WE GOT EVERYTHING
 ---
 
